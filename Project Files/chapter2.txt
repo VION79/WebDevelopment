@@ -1,1 +1,0 @@
-Awesome. I opened this .txt file with using the command line below.
